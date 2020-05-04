@@ -1,3 +1,5 @@
 jupyter
 pytorch-pretrained-bert
+bert-extractive-summarizer 
+spacy
 
